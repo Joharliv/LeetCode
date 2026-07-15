@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joharliv/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Joharliv/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [3707-equal-score-substrings](https://github.com/Joharliv/LeetCode/tree/master/3707-equal-score-substrings) |
 ## Simulation
@@ -45,5 +46,10 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Joharliv/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joharliv/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Joharliv/LeetCode/tree/master/0141-linked-list-cycle) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joharliv/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
