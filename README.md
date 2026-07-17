@@ -74,4 +74,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Joharliv/LeetCode/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Joharliv/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
