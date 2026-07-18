@@ -83,4 +83,5 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/Joharliv/LeetCode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Joharliv/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Joharliv/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
