@@ -34,6 +34,7 @@
 | [0231-power-of-two](https://github.com/Joharliv/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Joharliv/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Joharliv/LeetCode/tree/master/0509-fibonacci-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Joharliv/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Joharliv/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Joharliv/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/Joharliv/LeetCode/tree/master/2485-find-the-pivot-integer) |
@@ -128,6 +129,7 @@
 | [0231-power-of-two](https://github.com/Joharliv/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Joharliv/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Joharliv/LeetCode/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/Joharliv/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
