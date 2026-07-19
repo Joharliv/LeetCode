@@ -30,6 +30,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Joharliv/LeetCode/tree/master/0009-palindrome-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Joharliv/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Joharliv/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/Joharliv/LeetCode/tree/master/2485-find-the-pivot-integer) |
