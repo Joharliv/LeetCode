@@ -45,6 +45,7 @@
 | [0344-reverse-string](https://github.com/Joharliv/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Joharliv/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Joharliv/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Joharliv/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Joharliv/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/Joharliv/LeetCode/tree/master/0796-rotate-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Joharliv/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -74,6 +75,7 @@
 | [0125-valid-palindrome](https://github.com/Joharliv/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Joharliv/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Joharliv/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Joharliv/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Joharliv/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Joharliv/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Joharliv/LeetCode/tree/master/0389-find-the-difference) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Joharliv/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
