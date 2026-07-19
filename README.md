@@ -34,6 +34,7 @@
 | [0231-power-of-two](https://github.com/Joharliv/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Joharliv/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Joharliv/LeetCode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Joharliv/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Joharliv/LeetCode/tree/master/0509-fibonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Joharliv/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Joharliv/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -53,6 +54,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Joharliv/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Joharliv/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Joharliv/LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Joharliv/LeetCode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Joharliv/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Joharliv/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Joharliv/LeetCode/tree/master/0796-rotate-string) |
@@ -62,6 +64,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Joharliv/LeetCode/tree/master/0412-fizz-buzz) |
 | [3028-ant-on-the-boundary](https://github.com/Joharliv/LeetCode/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
 |  |
