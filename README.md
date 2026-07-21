@@ -65,6 +65,7 @@
 | [0796-rotate-string](https://github.com/Joharliv/LeetCode/tree/master/0796-rotate-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Joharliv/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Joharliv/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Joharliv/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3707-equal-score-substrings](https://github.com/Joharliv/LeetCode/tree/master/3707-equal-score-substrings) |
 ## Simulation
 |  |
@@ -106,6 +107,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Joharliv/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Joharliv/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Stack
 |  |
