@@ -44,6 +44,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Joharliv/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Joharliv/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Joharliv/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Joharliv/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Joharliv/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Joharliv/LeetCode/tree/master/0342-power-of-four) |
@@ -181,4 +182,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Joharliv/LeetCode/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Joharliv/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
