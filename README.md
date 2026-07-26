@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Joharliv/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0523-continuous-subarray-sum](https://github.com/Joharliv/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Joharliv/LeetCode/tree/master/0525-contiguous-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Joharliv/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Joharliv/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Joharliv/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Joharliv/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -51,6 +52,7 @@
 | [0412-fizz-buzz](https://github.com/Joharliv/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Joharliv/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Joharliv/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Joharliv/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/Joharliv/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Joharliv/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Joharliv/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -145,6 +147,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Joharliv/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Joharliv/LeetCode/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Joharliv/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Joharliv/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Queue
 |  |
