@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Joharliv/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Joharliv/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joharliv/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/Joharliv/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Joharliv/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Joharliv/LeetCode/tree/master/0525-contiguous-array) |
@@ -117,6 +118,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joharliv/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Joharliv/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Joharliv/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joharliv/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Joharliv/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Joharliv/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Joharliv/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Joharliv/LeetCode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joharliv/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
