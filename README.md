@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Joharliv/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Joharliv/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/Joharliv/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Joharliv/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Joharliv/LeetCode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Joharliv/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
