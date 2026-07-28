@@ -54,6 +54,7 @@
 | [0231-power-of-two](https://github.com/Joharliv/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Joharliv/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Joharliv/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Joharliv/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Joharliv/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Joharliv/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Joharliv/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -201,6 +202,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Joharliv/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joharliv/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/Joharliv/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Joharliv/LeetCode/tree/master/0704-binary-search) |
 ## Heap (Priority Queue)
 |  |
