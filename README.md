@@ -66,6 +66,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Joharliv/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Joharliv/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/Joharliv/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Joharliv/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Joharliv/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Joharliv/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Joharliv/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -90,6 +91,7 @@
 | [0796-rotate-string](https://github.com/Joharliv/LeetCode/tree/master/0796-rotate-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Joharliv/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Joharliv/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Joharliv/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Joharliv/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Joharliv/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3707-equal-score-substrings](https://github.com/Joharliv/LeetCode/tree/master/3707-equal-score-substrings) |
@@ -224,6 +226,7 @@
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Joharliv/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Joharliv/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Interactive
 |  |
 | ------- |
