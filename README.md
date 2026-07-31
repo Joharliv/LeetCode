@@ -92,6 +92,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Joharliv/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Joharliv/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Joharliv/LeetCode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Joharliv/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Joharliv/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Joharliv/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Joharliv/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -106,6 +107,7 @@
 | [0657-robot-return-to-origin](https://github.com/Joharliv/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Joharliv/LeetCode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Joharliv/LeetCode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Joharliv/LeetCode/tree/master/0844-backspace-string-compare) |
 | [3028-ant-on-the-boundary](https://github.com/Joharliv/LeetCode/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
 |  |
@@ -142,6 +144,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Joharliv/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Joharliv/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/Joharliv/LeetCode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Joharliv/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Joharliv/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Joharliv/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
@@ -161,6 +164,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Joharliv/LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Joharliv/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Joharliv/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Database
 |  |
 | ------- |
