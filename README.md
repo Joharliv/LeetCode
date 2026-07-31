@@ -15,6 +15,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Joharliv/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Joharliv/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Joharliv/LeetCode/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/Joharliv/LeetCode/tree/master/0832-flipping-an-image) |
 | [0930-binary-subarrays-with-sum](https://github.com/Joharliv/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Joharliv/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Joharliv/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -104,6 +105,7 @@
 | [0412-fizz-buzz](https://github.com/Joharliv/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Joharliv/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Joharliv/LeetCode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Joharliv/LeetCode/tree/master/0832-flipping-an-image) |
 | [3028-ant-on-the-boundary](https://github.com/Joharliv/LeetCode/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
 |  |
@@ -139,6 +141,7 @@
 | [0392-is-subsequence](https://github.com/Joharliv/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Joharliv/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Joharliv/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/Joharliv/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Joharliv/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Joharliv/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
@@ -197,6 +200,7 @@
 | [0231-power-of-two](https://github.com/Joharliv/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Joharliv/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Joharliv/LeetCode/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/Joharliv/LeetCode/tree/master/0832-flipping-an-image) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Joharliv/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1486-xor-operation-in-an-array](https://github.com/Joharliv/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Joharliv/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
@@ -245,4 +249,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Joharliv/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Joharliv/LeetCode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
