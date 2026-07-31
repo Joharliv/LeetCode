@@ -13,6 +13,7 @@
 | [0525-contiguous-array](https://github.com/Joharliv/LeetCode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Joharliv/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Joharliv/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Joharliv/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Joharliv/LeetCode/tree/master/0704-binary-search) |
 | [0930-binary-subarrays-with-sum](https://github.com/Joharliv/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Joharliv/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/Joharliv/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Joharliv/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Joharliv/LeetCode/tree/master/0682-baseball-game) |
 | [3028-ant-on-the-boundary](https://github.com/Joharliv/LeetCode/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
 |  |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Joharliv/LeetCode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Joharliv/LeetCode/tree/master/0682-baseball-game) |
 ## Database
 |  |
 | ------- |
