@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/Joharliv/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joharliv/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/Joharliv/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Joharliv/LeetCode/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/Joharliv/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Joharliv/LeetCode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Joharliv/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -62,6 +63,7 @@
 | [0342-power-of-four](https://github.com/Joharliv/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Joharliv/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Joharliv/LeetCode/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/Joharliv/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Joharliv/LeetCode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Joharliv/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Joharliv/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Joharliv/LeetCode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Joharliv/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Joharliv/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Joharliv/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -224,6 +227,7 @@
 | [0231-power-of-two](https://github.com/Joharliv/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Joharliv/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Joharliv/LeetCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Joharliv/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Joharliv/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -262,4 +266,8 @@
 | [0832-flipping-an-image](https://github.com/Joharliv/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Joharliv/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Joharliv/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Joharliv/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
