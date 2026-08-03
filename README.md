@@ -136,6 +136,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Joharliv/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Joharliv/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Joharliv/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -227,6 +228,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Joharliv/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Joharliv/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Joharliv/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Joharliv/LeetCode/tree/master/0342-power-of-four) |
