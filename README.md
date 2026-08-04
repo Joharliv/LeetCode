@@ -103,6 +103,7 @@
 | [0796-rotate-string](https://github.com/Joharliv/LeetCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Joharliv/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Joharliv/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1768-merge-strings-alternately](https://github.com/Joharliv/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2351-first-letter-to-appear-twice](https://github.com/Joharliv/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Joharliv/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Joharliv/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -160,6 +161,7 @@
 | [0844-backspace-string-compare](https://github.com/Joharliv/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Joharliv/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Joharliv/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Joharliv/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
