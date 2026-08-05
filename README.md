@@ -306,4 +306,16 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Joharliv/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Joharliv/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Joharliv/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Joharliv/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
