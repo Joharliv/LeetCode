@@ -24,6 +24,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Joharliv/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Joharliv/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Joharliv/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/Joharliv/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Joharliv/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1406-stone-game-iii](https://github.com/Joharliv/LeetCode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Joharliv/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -146,6 +147,7 @@
 | [0525-contiguous-array](https://github.com/Joharliv/LeetCode/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Joharliv/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Joharliv/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1207-unique-number-of-occurrences](https://github.com/Joharliv/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Joharliv/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Joharliv/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Joharliv/LeetCode/tree/master/3731-find-missing-elements) |
