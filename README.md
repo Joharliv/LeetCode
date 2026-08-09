@@ -24,6 +24,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Joharliv/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Joharliv/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Joharliv/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1140-stone-game-ii](https://github.com/Joharliv/LeetCode/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Joharliv/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Joharliv/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1406-stone-game-iii](https://github.com/Joharliv/LeetCode/tree/master/1406-stone-game-iii) |
@@ -48,6 +49,7 @@
 | [0525-contiguous-array](https://github.com/Joharliv/LeetCode/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Joharliv/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Joharliv/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/Joharliv/LeetCode/tree/master/1140-stone-game-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Joharliv/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Joharliv/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Joharliv/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -78,6 +80,7 @@
 | [0877-stone-game](https://github.com/Joharliv/LeetCode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Joharliv/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Joharliv/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/Joharliv/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Joharliv/LeetCode/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Joharliv/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Joharliv/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -253,6 +256,7 @@
 | [0509-fibonacci-number](https://github.com/Joharliv/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Joharliv/LeetCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Joharliv/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/Joharliv/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Joharliv/LeetCode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Joharliv/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
@@ -310,14 +314,17 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Joharliv/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Joharliv/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Joharliv/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Joharliv/LeetCode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Joharliv/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Joharliv/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Joharliv/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Joharliv/LeetCode/tree/master/1406-stone-game-iii) |
 ## Euclidean Algorithm
 |  |
