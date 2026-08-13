@@ -38,6 +38,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Joharliv/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Joharliv/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Joharliv/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/Joharliv/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Joharliv/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Joharliv/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Joharliv/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -147,6 +148,7 @@
 | [0832-flipping-an-image](https://github.com/Joharliv/LeetCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Joharliv/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Joharliv/LeetCode/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/Joharliv/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3028-ant-on-the-boundary](https://github.com/Joharliv/LeetCode/tree/master/3028-ant-on-the-boundary) |
 ## Hash Table
 |  |
