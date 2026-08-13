@@ -128,6 +128,7 @@
 | [0844-backspace-string-compare](https://github.com/Joharliv/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Joharliv/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Joharliv/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Joharliv/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Joharliv/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2351-first-letter-to-appear-twice](https://github.com/Joharliv/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Joharliv/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -212,6 +213,7 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Joharliv/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Joharliv/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Joharliv/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Joharliv/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Joharliv/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Joharliv/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
