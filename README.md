@@ -21,6 +21,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Joharliv/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Joharliv/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Joharliv/LeetCode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Joharliv/LeetCode/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Joharliv/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Joharliv/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Joharliv/LeetCode/tree/master/0877-stone-game) |
@@ -56,6 +57,7 @@
 | [0238-product-of-array-except-self](https://github.com/Joharliv/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Joharliv/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Joharliv/LeetCode/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/Joharliv/LeetCode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Joharliv/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Joharliv/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Joharliv/LeetCode/tree/master/1140-stone-game-ii) |
