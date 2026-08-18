@@ -29,6 +29,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Joharliv/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Joharliv/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Joharliv/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Joharliv/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Joharliv/LeetCode/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Joharliv/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Joharliv/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
@@ -64,6 +65,7 @@
 | [0724-find-pivot-index](https://github.com/Joharliv/LeetCode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Joharliv/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Joharliv/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Joharliv/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Joharliv/LeetCode/tree/master/1140-stone-game-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Joharliv/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Joharliv/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -227,6 +229,7 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Joharliv/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Joharliv/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Joharliv/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Joharliv/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Joharliv/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Joharliv/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -326,6 +329,7 @@
 | [0367-valid-perfect-square](https://github.com/Joharliv/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Joharliv/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Joharliv/LeetCode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Joharliv/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
