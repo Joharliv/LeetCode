@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Joharliv/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Joharliv/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Joharliv/LeetCode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/Joharliv/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joharliv/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Joharliv/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Joharliv/LeetCode/tree/master/0283-move-zeroes) |
@@ -316,6 +317,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Joharliv/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Joharliv/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Joharliv/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Joharliv/LeetCode/tree/master/0389-find-the-difference) |
