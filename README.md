@@ -154,6 +154,7 @@
 | [1768-merge-strings-alternately](https://github.com/Joharliv/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Joharliv/LeetCode/tree/master/1927-sum-game) |
 | [2351-first-letter-to-appear-twice](https://github.com/Joharliv/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Joharliv/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Joharliv/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Joharliv/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Joharliv/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -175,6 +176,7 @@
 | [0867-transpose-matrix](https://github.com/Joharliv/LeetCode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Joharliv/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Joharliv/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Joharliv/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3028-ant-on-the-boundary](https://github.com/Joharliv/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Joharliv/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Joharliv/LeetCode/tree/master/3174-clear-digits) |
@@ -275,6 +277,7 @@
 | [0682-baseball-game](https://github.com/Joharliv/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Joharliv/LeetCode/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Joharliv/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Joharliv/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Joharliv/LeetCode/tree/master/3174-clear-digits) |
 ## Database
 |  |
