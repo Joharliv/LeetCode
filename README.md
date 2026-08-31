@@ -445,10 +445,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Joharliv/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Joharliv/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Joharliv/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Joharliv/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -478,6 +480,7 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Joharliv/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Joharliv/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -486,6 +489,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Joharliv/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Joharliv/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Bracket Sequences
 |  |
