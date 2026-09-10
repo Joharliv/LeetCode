@@ -158,6 +158,7 @@
 | [0657-robot-return-to-origin](https://github.com/Joharliv/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Joharliv/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Joharliv/LeetCode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Joharliv/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Joharliv/LeetCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Joharliv/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Joharliv/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -209,6 +210,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Joharliv/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Joharliv/LeetCode/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/Joharliv/LeetCode/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/Joharliv/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Joharliv/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0930-binary-subarrays-with-sum](https://github.com/Joharliv/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Joharliv/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
