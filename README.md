@@ -488,6 +488,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Joharliv/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Joharliv/LeetCode/tree/master/0052-n-queens-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Joharliv/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
@@ -528,4 +529,5 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Joharliv/LeetCode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Joharliv/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
