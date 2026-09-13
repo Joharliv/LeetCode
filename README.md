@@ -48,6 +48,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Joharliv/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Joharliv/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Joharliv/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/Joharliv/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Joharliv/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Joharliv/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Joharliv/LeetCode/tree/master/2029-stone-game-ix) |
@@ -219,6 +220,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Joharliv/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/Joharliv/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Joharliv/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Joharliv/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Joharliv/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/Joharliv/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Joharliv/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -341,6 +343,7 @@
 | [0383-ransom-note](https://github.com/Joharliv/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Joharliv/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Joharliv/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1748-sum-of-unique-elements](https://github.com/Joharliv/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/Joharliv/LeetCode/tree/master/2029-stone-game-ix) |
 | [2351-first-letter-to-appear-twice](https://github.com/Joharliv/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Joharliv/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
