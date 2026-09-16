@@ -52,6 +52,7 @@
 | [1929-concatenation-of-array](https://github.com/Joharliv/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Joharliv/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Joharliv/LeetCode/tree/master/2029-stone-game-ix) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Joharliv/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Joharliv/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Joharliv/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Joharliv/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -173,6 +174,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Joharliv/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Joharliv/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Joharliv/LeetCode/tree/master/1927-sum-game) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Joharliv/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Joharliv/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Joharliv/LeetCode/tree/master/2418-sort-the-people) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Joharliv/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -225,6 +227,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Joharliv/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Joharliv/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Joharliv/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Joharliv/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Joharliv/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/Joharliv/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Joharliv/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -352,6 +355,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/Joharliv/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1748-sum-of-unique-elements](https://github.com/Joharliv/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/Joharliv/LeetCode/tree/master/2029-stone-game-ix) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Joharliv/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Joharliv/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Joharliv/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Joharliv/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
