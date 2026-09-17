@@ -42,6 +42,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Joharliv/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Joharliv/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Joharliv/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Joharliv/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Joharliv/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Joharliv/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/Joharliv/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -225,6 +226,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Joharliv/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Joharliv/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/Joharliv/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Joharliv/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Joharliv/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Joharliv/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Joharliv/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -297,6 +299,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Joharliv/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Joharliv/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Joharliv/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Joharliv/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Joharliv/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Joharliv/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Joharliv/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -384,6 +387,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Joharliv/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Joharliv/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Joharliv/LeetCode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Joharliv/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Joharliv/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/Joharliv/LeetCode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Joharliv/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -413,6 +417,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Joharliv/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Joharliv/LeetCode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Joharliv/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Joharliv/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
