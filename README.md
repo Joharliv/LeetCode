@@ -189,6 +189,7 @@
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Joharliv/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Joharliv/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Joharliv/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Joharliv/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Joharliv/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3707-equal-score-substrings](https://github.com/Joharliv/LeetCode/tree/master/3707-equal-score-substrings) |
 ## Simulation
@@ -207,6 +208,7 @@
 | [3028-ant-on-the-boundary](https://github.com/Joharliv/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Joharliv/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Joharliv/LeetCode/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/Joharliv/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
