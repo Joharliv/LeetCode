@@ -71,6 +71,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Joharliv/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Joharliv/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Joharliv/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Joharliv/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Joharliv/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Joharliv/LeetCode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Joharliv/LeetCode/tree/master/3866-first-unique-even-element) |
@@ -248,6 +249,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Joharliv/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Joharliv/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Joharliv/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Joharliv/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Joharliv/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Joharliv/LeetCode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Joharliv/LeetCode/tree/master/3866-first-unique-even-element) |
@@ -371,6 +373,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Joharliv/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Joharliv/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Joharliv/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Joharliv/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/Joharliv/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Bit Manipulation
 |  |
