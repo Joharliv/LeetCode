@@ -135,6 +135,7 @@
 | [1406-stone-game-iii](https://github.com/Joharliv/LeetCode/tree/master/1406-stone-game-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Joharliv/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/Joharliv/LeetCode/tree/master/1510-stone-game-iv) |
+| [1518-water-bottles](https://github.com/Joharliv/LeetCode/tree/master/1518-water-bottles) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Joharliv/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/Joharliv/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1927-sum-game](https://github.com/Joharliv/LeetCode/tree/master/1927-sum-game) |
@@ -215,6 +216,7 @@
 | [0832-flipping-an-image](https://github.com/Joharliv/LeetCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Joharliv/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Joharliv/LeetCode/tree/master/0867-transpose-matrix) |
+| [1518-water-bottles](https://github.com/Joharliv/LeetCode/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/Joharliv/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Joharliv/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Joharliv/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
