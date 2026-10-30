@@ -113,6 +113,7 @@
 | [0007-reverse-integer](https://github.com/Joharliv/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Joharliv/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Joharliv/LeetCode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Joharliv/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Joharliv/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Joharliv/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Joharliv/LeetCode/tree/master/0202-happy-number) |
@@ -165,6 +166,7 @@
 | [0020-valid-parentheses](https://github.com/Joharliv/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Joharliv/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Joharliv/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Joharliv/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Joharliv/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Joharliv/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Joharliv/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -210,6 +212,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Joharliv/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Joharliv/LeetCode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Joharliv/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Joharliv/LeetCode/tree/master/0682-baseball-game) |
@@ -403,6 +406,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Joharliv/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Joharliv/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Joharliv/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Joharliv/LeetCode/tree/master/0342-power-of-four) |
