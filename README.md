@@ -196,6 +196,7 @@
 | [1927-sum-game](https://github.com/Joharliv/LeetCode/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/Joharliv/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Joharliv/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Joharliv/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Joharliv/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Joharliv/LeetCode/tree/master/2418-sort-the-people) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Joharliv/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
