@@ -11,6 +11,7 @@
 | [0051-n-queens](https://github.com/Joharliv/LeetCode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Joharliv/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Joharliv/LeetCode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Joharliv/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joharliv/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Joharliv/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Joharliv/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -456,6 +457,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Joharliv/LeetCode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Joharliv/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Joharliv/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/Joharliv/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Joharliv/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
