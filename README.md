@@ -345,6 +345,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Joharliv/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Joharliv/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Joharliv/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Joharliv/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Joharliv/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -607,4 +608,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Joharliv/LeetCode/tree/master/0202-happy-number) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Joharliv/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
